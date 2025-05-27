@@ -2,6 +2,12 @@
 
 ![Mi banner](assets/banner_perfil_github.png)
 
+> [!IMPORTANT]
+> Content table.
+> 1. Aboute me
+> 2. Stacks
+> 3. Conect wwith me 😁
+
 
 <!--
 **IvanMendozaL/IvanMendozaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
