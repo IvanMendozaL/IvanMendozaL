@@ -1,6 +1,6 @@
 # Hi everyone 👋 I'm Iván 😁
 
-![Mi banner](assets/banner.png)
+![Mi banner](assets/banner_perfil_github.png)
 
 
 <!--
