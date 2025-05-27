@@ -2,10 +2,9 @@
 
 ![Mi banner](assets/banner_perfil_github.png)
 
-> [!IMPORTANT]
 > Content table.
 > 1. [Aboute me](#about-me).
-> 2. Stacks [Stacks](#stacks)
+> 2. [Stacks](#stacks)
 > 3. [Connect wwith me 😁](#Connect-with-me)
 
 
