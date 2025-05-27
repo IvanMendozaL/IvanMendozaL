@@ -6,7 +6,8 @@
 > Content table.
 > 1. [Aboute me](#about-me).
 > 2. [Stacks](#stacks)
-> 3. [Connect wwith me 😁](#Connect-with-me)
+> 3. [What am I learning? 🧠](#Connect-with-me)
+> 4. [Connect wwith me 😁](#Connect-with-me)
 
 
 ## Aboute me
@@ -15,10 +16,31 @@
 
 My name is Iván Mendoza, and I'm passionate about learning about computer science and software development. I strongly believe in the importance of self-teaching, and it's good to always be on the lookout for new tools, technologies, and creative ways to solve problems. Every line of code is an opportunity to learn something new and continue growing, both professionally and personally. 💻😁
 
+
 ## Stacks
+
+![Stacks](assets/stacks.png)
+
+- 🔭 Lenguajes: JavaScript, PHP, Dart, Python
+- 🛠️ Frameworks: Laravel, Vue, Flutter
+- 🧰 Herramientas: Docker, Git, Vite, Firebase
+
+## What am I learning?
+
+![What am I learning](assets/learning.png)
+
+- Desarrollo móvil con Flutter
+- Principios de arquitectura limpia
+- Automatización con Docker
 
 
 ## Connect with me
+
+![What am I learning](assets/connect_with_me.png)
+
+- LinkedIn: [TuPerfil](https://www.linkedin.com/in/iv%C3%A1n-mendoza-565910201/)
+
+Last Edited on: 26/05/2025
 
 
 <!--
