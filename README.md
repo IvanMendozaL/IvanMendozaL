@@ -2,6 +2,7 @@
 
 ![Mi banner](assets/banner_perfil_github.png)
 
+> [!IMPORTANT]
 > Content table.
 > 1. [Aboute me](#about-me).
 > 2. [Stacks](#stacks)
@@ -9,7 +10,10 @@
 
 
 ## Aboute me
-Soy un desarrollador apasionado por la tecnología, el software libre y el aprendizaje constante. Me encanta crear soluciones que impacten positivamente a las personas.
+
+![About me](assets/banner_about_me.png)
+
+My name is Iván Mendoza, and I'm passionate about learning about computer science and software development. I strongly believe in the importance of self-teaching, and it's good to always be on the lookout for new tools, technologies, and creative ways to solve problems. Every line of code is an opportunity to learn something new and continue growing, both professionally and personally. 💻😁
 
 ## Stacks
 
