@@ -21,17 +21,17 @@ My name is Iván Mendoza, and I'm passionate about learning about computer scien
 
 ![Stacks](assets/stacks.png)
 
-- 🔭 Lenguajes: JavaScript, PHP, Dart, Python
-- 🛠️ Frameworks: Laravel, Vue, Flutter
-- 🧰 Herramientas: Docker, Git, Vite, Firebase
+- 🔭 Languages: JavaScript, PHP, Dart
+- 🛠️ Frameworks: Laravel, React, Flutter
+- 🧰 Tools: Docker, Git, Vite
 
 ## What am I learning?
 
 ![What am I learning](assets/learning.png)
 
-- Desarrollo móvil con Flutter
-- Principios de arquitectura limpia
-- Automatización con Docker
+- Mobile development with Flutter
+- Principles of clean architecture
+- Automation with Docker
 
 
 ## Connect with me
