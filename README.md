@@ -4,9 +4,18 @@
 
 > [!IMPORTANT]
 > Content table.
-> 1. Aboute me
-> 2. Stacks
-> 3. Conect wwith me 😁
+> 1. [Aboute me](#about-me).
+> 2. Stacks [Stacks](#stacks)
+> 3. [Connect wwith me 😁](#Connect-with-me)
+
+
+## Aboute me
+Soy un desarrollador apasionado por la tecnología, el software libre y el aprendizaje constante. Me encanta crear soluciones que impacten positivamente a las personas.
+
+## Stacks
+
+
+## Connect with me
 
 
 <!--
