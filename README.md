@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi everyone 👋 I'm Iván 😁
+
+![Mi banner](assets/banner.png)
+
 
 <!--
 **IvanMendozaL/IvanMendozaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
