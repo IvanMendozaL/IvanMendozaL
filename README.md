@@ -38,7 +38,7 @@ My name is Iván Mendoza, and I'm passionate about learning about computer scien
 
 ![What am I learning](assets/connect_with_me.png)
 
-- LinkedIn: [TuPerfil](https://www.linkedin.com/in/iv%C3%A1n-mendoza-565910201/)
+- LinkedIn: [Perfil](https://www.linkedin.com/in/iv%C3%A1n-mendoza-565910201/)
 
 Last Edited on: 26/05/2025
 
